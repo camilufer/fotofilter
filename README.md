@@ -1,3 +1,5 @@
+![fotofilterapp](https://user-images.githubusercontent.com/32283134/38226873-09ecd492-36d2-11e8-8024-2c0404f3f17c.png)
+
 Librería PhotoFilter
 ====================
 
